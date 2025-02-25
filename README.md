@@ -22,7 +22,7 @@ Software engineering plays a crucial role in the technology industry for several
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 Key Milestones in the Evolution of Software Engineering
-1. The 1968 NATO Software Engineering Conference</b>
+1. The 1968 NATO Software Engineering Conference
 The term "software engineering" was first introduced at the NATO Software Engineering Conference in 1968. This event marked a pivotal moment in the history of the discipline, as it formally recognized the challenges of software development and the need for systematic engineering approaches to address the so-called "software crisis." The crisis referred to the growing complexity of software systems, which often led to delays, cost overruns, and unreliable software.
 This conference laid the foundation for treating software development as an engineering discipline rather than an ad hoc process. It emphasized the importance of structured methodologies, documentation, and project management in software development.
 
@@ -112,7 +112,7 @@ Monitoring the team's performance and ensuring that tasks are completed accordin
 Example Contribution:
 A project manager might coordinate the development of a new feature for a social media platform, ensuring that developers, designers, and QA engineers work together efficiently to meet the release deadline.
 
-<h1>Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 Importance of Integrated Development Environments (IDEs) in Software Development
 An Integrated Development Environment (IDE) is a software application that provides a comprehensive suite of tools to streamline the software development process. IDEs typically include a source-code editor, build automation tools, and a debugger, all integrated into a single interface. Some IDEs also incorporate features like syntax highlighting, code completion, and integrated version control systems, which significantly enhance productivity.
 
