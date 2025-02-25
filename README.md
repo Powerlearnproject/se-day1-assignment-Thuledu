@@ -83,7 +83,7 @@ Software developers are responsible for designing, coding, and implementing soft
 <br>
 <b>Example Contribution:</b>
 A software developer might create the backend logic for an e-commerce platform, ensuring that the system can handle user authentication, product searches, and payment processing.
-<br>
+
 <h3>2. Quality Assurance Engineer</h3>
 <b>Role:</b>
 QA engineers ensure that the software meets quality standards and functions as intended. They play a critical role in identifying and addressing defects before the software is released.
@@ -97,7 +97,7 @@ QA engineers ensure that the software meets quality standards and functions as i
 <br>
 <b>Example Contribution:</b>
 A QA engineer might test a mobile app to ensure that it works seamlessly across different devices and operating systems, identifying and reporting any crashes or usability issues.
-<br>
+
 <h3>3. Project Manager</h3>
 <b>Role:</b>
 The project manager oversees the entire software development process, ensuring that the project is completed on time, within budget, and meets the desired objectives.
